@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 public class GameMain : MonoBehaviour
 {
     IEnumerator Start()
@@ -10,3 +12,4 @@ public class GameMain : MonoBehaviour
     {
 	}
 }
+
