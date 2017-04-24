@@ -1,6 +1,4 @@
-//
 // コメント追記
-//
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
