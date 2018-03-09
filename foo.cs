@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class GameMain : MonoBehaviour
 {
+	void Awake ()
+	{
+	}
     IEnumerator Start()
     {
 		yield break;
@@ -12,4 +15,3 @@ public class GameMain : MonoBehaviour
     {
 	}
 }
-
